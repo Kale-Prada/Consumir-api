@@ -53,9 +53,6 @@ La API accede a los datos contenidos en el endpoint https://api.chucknorris.io/j
    pip3 install -r requirements.txt
    ```
 
-## Requerimientos
-Instala requirements.txt / Ten en cuenta estas librerías: 
-
 
 ## Licencia
 
